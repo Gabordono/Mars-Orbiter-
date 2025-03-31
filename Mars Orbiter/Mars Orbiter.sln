@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35906.104 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Mars Orbiter", "Mars Orbiter\Mars Orbiter.pyproj", "{D6B2FA54-28B0-4D6A-A25C-E2D9945026F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B2FA54-28B0-4D6A-A25C-E2D9945026F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B2FA54-28B0-4D6A-A25C-E2D9945026F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6862314B-A581-4A49-B157-32FD9835830A}
+	EndGlobalSection
+EndGlobal
